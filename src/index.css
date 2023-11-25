@@ -1,0 +1,39 @@
+/* index.css */
+
+/* Global Styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4; /* Example background color */
+}
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Styles for Professional Look */
+.container {
+  max-width: 600px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+/* Add other styles as needed for your components */
+.todo-app {
+  /* Your specific styles for the To-Do app */
+}
+
+.input-field {
+  /* Input field styles */
+}
+
+.select-field {
+  /* Select field styles */
+}
+
+/* Add more specific styling based on your requirements */
