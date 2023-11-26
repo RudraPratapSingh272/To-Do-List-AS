@@ -133,7 +133,7 @@ function App() {
               Add Task
             </button>
           )}
-        </div><br />
+        </div><br /> <hr/>
         {/* Search Input Section */}
         <div className="row">
           <input
